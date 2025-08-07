@@ -3,6 +3,16 @@
   <img width="200" height="30" src="https://blinkies.cafe/b/blinkiesCafe-yZ.gif">
   <img width="200" height="30" src="https://blinkies.cafe/b/blinkiesCafe-sg.gif">
 </p>
+
+<style>
+  var audio = new Audio('https://github.com/user-attachments/assets/7e092340-0f46-49c7-95ea-eedcb668c724raw=true');
+  audio.play();
+</style>
+
+<video controls="" autoplay="" name="media">
+    <source src="https://github.com/user-attachments/assets/7e092340-0f46-49c7-95ea-eedcb668c724" type="audio/mp4">
+</video>
+
 <p align="center">
   <img width="600" height="5" src="https://64.media.tumblr.com/f21833784aff3910bac3f93cbe3d17c5/e3a34199dbfc1ee7-10/s400x600/26fe21954966c3dcb7aea35cd5b740124d2a3aec.gifv">
 </p>
