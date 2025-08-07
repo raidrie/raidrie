@@ -32,5 +32,4 @@
   <img style="height:100;" src="https://64.media.tumblr.com/924e43f6dc6fec463ac249903a6a5b7d/6c9c6db1d57a1d89-8b/s100x200/41eacff753c49ddf83d2141ff293e0e1cee9a68f.pnj">
 </p>
 
-## <scr="https://64.media.tumblr.com/52ec348a47df92ffa0671083ed9135c1/6c9c6db1d57a1d89-98/s100x200/0db69047c5c6c6b36b8dad83a0c4eba600957bac.pnj ">
-<a id='https://ayesha-erotic-baby.skysound7.com/'></a>
+
