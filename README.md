@@ -20,7 +20,7 @@
                                                           RP | INT <3
 ~~~
 
-<a href=>
+<a href="https://www.youtube.com/watch?v=viPoPVzEIkY">
 <img width="70" height="70" src="https://github.com/user-attachments/assets/ae66314e-25c7-4451-87ee-a5b7d11171c8">
 </a>
 
