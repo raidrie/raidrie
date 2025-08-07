@@ -17,7 +17,6 @@
                                                     dari-dari | raidrie
                                                           she | her
                                                           esfp | 7w6
-                                                            UTC+3
                                                           RP | INT <3
 ~~~
 <p align="center">
