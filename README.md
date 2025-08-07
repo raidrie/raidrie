@@ -35,12 +35,12 @@
   <img style="height:100;" src="https://64.media.tumblr.com/924e43f6dc6fec463ac249903a6a5b7d/6c9c6db1d57a1d89-8b/s100x200/41eacff753c49ddf83d2141ff293e0e1cee9a68f.pnj">
 </p>
 
-
-
 <p align="center">
   <img width="600" height="5" src="https://64.media.tumblr.com/f21833784aff3910bac3f93cbe3d17c5/e3a34199dbfc1ee7-10/s400x600/26fe21954966c3dcb7aea35cd5b740124d2a3aec.gifv">
 </p>
 
 <p align="center">
-  <img style="height:100;" src="https://64.media.tumblr.com/c29bb1c3930dd53b0a3ec3aba2b73b90/82f212b18355ee51-f1/s250x400/55289f9741bf6fa29db547f381ab1bebc7842af8.gifv">
+  <img width="200" height="30" src="https://64.media.tumblr.com/65744371b93d7c499f6fc861e22d1d11/320c9144c24c782d-a2/s250x400/20523ddce31f178f7c5c5767da32a6fd085e21ff.gifv">
+  <img width="200" height="30" src="https://64.media.tumblr.com/c29bb1c3930dd53b0a3ec3aba2b73b90/82f212b18355ee51-f1/s250x400/55289f9741bf6fa29db547f381ab1bebc7842af8.gifv">
+  <img width="200" height="30" src="https://64.media.tumblr.com/21ec3d9cba29e7ee7ec134331c25bde4/df1e2cfa91e2b56e-f1/s250x400/29ec97fcf662d10c07628c9580b8c1b785866d45.gifv">
 </p>
