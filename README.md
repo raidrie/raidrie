@@ -19,6 +19,10 @@
                                                           esfp | 7w6
                                                           RP | INT <3
 ~~~
+
+<a href="https://t.me/ra1drie" rel=nofollow>
+<img width="600" height="5" src="https://64.media.tumblr.com/f21833784aff3910bac3f93cbe3d17c5/e3a34199dbfc1ee7-10/s400x600/26fe21954966c3dcb7aea35cd5b740124d2a3aec.gifv">
+
 <p align="center">
   <img width="600" height="5" src="https://64.media.tumblr.com/f21833784aff3910bac3f93cbe3d17c5/e3a34199dbfc1ee7-10/s400x600/26fe21954966c3dcb7aea35cd5b740124d2a3aec.gifv">
 </p>
@@ -32,3 +36,11 @@
 </p>
 
 
+
+<p align="center">
+  <img width="600" height="5" src="https://64.media.tumblr.com/f21833784aff3910bac3f93cbe3d17c5/e3a34199dbfc1ee7-10/s400x600/26fe21954966c3dcb7aea35cd5b740124d2a3aec.gifv">
+</p>
+
+<p align="center">
+  <img style="height:100;" src="https://64.media.tumblr.com/c29bb1c3930dd53b0a3ec3aba2b73b90/82f212b18355ee51-f1/s250x400/55289f9741bf6fa29db547f381ab1bebc7842af8.gifv">
+</p>
