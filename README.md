@@ -1,7 +1,7 @@
 <p align="center">
-  <img width="300" height="40" src="https://blinkies.cafe/b/blinkiesCafe-sg.gif">
-  <img width="300" height="40" src="https://blinkies.cafe/b/blinkiesCafe-yZ.gif">
-  <img width="300" height="40" src="https://blinkies.cafe/b/blinkiesCafe-sg.gif">
+  <img width="150" height="20" src="https://blinkies.cafe/b/blinkiesCafe-sg.gif">
+  <img width="150" height="20" src="https://blinkies.cafe/b/blinkiesCafe-yZ.gif">
+  <img width="150" height="20" src="https://blinkies.cafe/b/blinkiesCafe-sg.gif">
 </p>
 <p align="center">
   <img width="600" height="5" src="https://64.media.tumblr.com/f21833784aff3910bac3f93cbe3d17c5/e3a34199dbfc1ee7-10/s400x600/26fe21954966c3dcb7aea35cd5b740124d2a3aec.gifv">
