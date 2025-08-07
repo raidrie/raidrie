@@ -4,10 +4,6 @@
   <img width="200" height="30" src="https://blinkies.cafe/b/blinkiesCafe-sg.gif">
 </p>
 
-<style>
-  var audio = new Audio('https://github.com/user-attachments/assets/7e092340-0f46-49c7-95ea-eedcb668c724raw=true');
-  audio.play();
-</style>
 
 <video controls="" autoplay="" name="media">
     <source src="https://github.com/user-attachments/assets/7e092340-0f46-49c7-95ea-eedcb668c724" type="audio/mp4">
