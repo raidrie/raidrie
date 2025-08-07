@@ -21,7 +21,10 @@
 ~~~
 
 <a href="https://t.me/ra1drie" rel=nofollow>
-<img style="height:100;" src="https://64.media.tumblr.com/b14d4b5b5c287a44d763e9182e60eb9d/df1e2cfa91e2b56e-d1/s100x200/61035efafc097c57081c698bcb3d535528f1df04.gifv">
+<img width="70" height="70" src="https://github.com/user-attachments/assets/ae66314e-25c7-4451-87ee-a5b7d11171c8">
+</a>
+
+ало, намсу?
 
 <p align="center">
   <img width="600" height="5" src="https://64.media.tumblr.com/f21833784aff3910bac3f93cbe3d17c5/e3a34199dbfc1ee7-10/s400x600/26fe21954966c3dcb7aea35cd5b740124d2a3aec.gifv">
