@@ -40,9 +40,8 @@
                                                           RP | INT <3
 ~~~
 
-<a href="[https://github.com/erefiel]">
-<img width="70" height="70" src="https://github.com/user-attachments/assets/ae66314e-25c7-4451-87ee-a5b7d11171c8">
-</a>
+
+[<img width="70" height="70" src="https://raw.githubusercontent.com/raidrie/raidrie/refs/heads/main/475796336-ae66314e-25c7-4451-87ee-a5b7d11171c8.png">](https://github.com/erefiel)
 
 ало, намсу? <img width="200" height="30" src="https://64.media.tumblr.com/6ddbd51f6af6286242c25077a5263b37/a96c2890f9f9b852-e4/s250x400/99a0e91b55e1256319803e0685d3c0d6517f5505.gifv">
 
