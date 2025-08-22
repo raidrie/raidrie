@@ -1,5 +1,7 @@
 <p align="center">
-  <img width="400" height="24" alt="image" src="https://github.com/user-attachments/assets/77b20374-9f40-400d-8353-db0c258f1047" />
+  <img width="25" height="25" src="https://64.media.tumblr.com/b49ec6fdff97f441f862895d5e65c744/34926cc4180abaac-c3/s75x75_c1/41e2eacd27199c086644586fb80f08c6e0bb4e9e.gifv">
+  <img width="400" height="24" alt="image" src="https://github.com/user-attachments/assets/77b20374-9f40-400d-8353-db0c258f1047">
+  <img width="25" height="25" src="https://64.media.tumblr.com/b49ec6fdff97f441f862895d5e65c744/34926cc4180abaac-c3/s75x75_c1/41e2eacd27199c086644586fb80f08c6e0bb4e9e.gifv">
 </p>
 
 <p align="center">
@@ -43,7 +45,7 @@
 
 [<img width="70" height="70" src="https://raw.githubusercontent.com/raidrie/raidrie/refs/heads/main/475796336-ae66314e-25c7-4451-87ee-a5b7d11171c8.png">](https://github.com/erefiel)
 
-ало, намсу? <img width="200" height="30" src="https://64.media.tumblr.com/6ddbd51f6af6286242c25077a5263b37/a96c2890f9f9b852-e4/s250x400/99a0e91b55e1256319803e0685d3c0d6517f5505.gifv">
+ало, намсу? <img width="200" height="30" src="https://64.media.tumblr.com/6ddbd51f6af6286242c25077a5263b37/a96c2890f9f9b852-e4/s250x400/99a0e91b55e1256319803e0685d3c0d6517f5505.gifv"> ссжвпт <img width="25" height="25" src="https://64.media.tumblr.com/bfef1b20b708f5721ad603291583c786/56f1ae481e750a1d-63/s75x75_c1/d646cd0f9873fa69ade87c37810e34b68ad8acfa.gifv">
 
 <p align="center">
   <img width="600" height="5" src="https://64.media.tumblr.com/f21833784aff3910bac3f93cbe3d17c5/e3a34199dbfc1ee7-10/s400x600/26fe21954966c3dcb7aea35cd5b740124d2a3aec.gifv">
