@@ -37,7 +37,6 @@
 
 ~~~
                                                     dari-dari | raidrie
-                                                          she | her
                                                           esfp | 7w6
                                                           RP | INT <3
 ~~~
