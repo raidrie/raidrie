@@ -42,7 +42,16 @@
 ~~~
 
 <p align="center">
-  <img width="300" height="40" scr="https://github.com/raidrie/raidrie/blob/bbb1175e06e2d0906d2cd14175036f2013b9ed70/blinkiesCafe-S0-ezgif.com-gif-to-webp-converter.webp">
+  <img width="250" height="80" src="blinkiesCafe-S0-ezgif.com-gif-to-webp-converter.webp">
+</p>
+
+<p align="center">
+  <img width="70" height="70" src="https://64.media.tumblr.com/e1d4b8468c84cb9c285918d45499a3bf/67106074ef660adb-1c/s250x400/fed5215ed1dcec7e20fd11c38ddc772b65567bd5.jpg">
+  <img width="70" height="70" src="https://64.media.tumblr.com/531b271b8146b18f2ef5f8aea78eabe0/5cb61a3f45fbdfe5-fb/s400x600/8b2ccb9009ecbf9eb4a3e0243d9603c0a158e779.pnj">
+  <img width="70" height="70" src="https://64.media.tumblr.com/bd4b8b3eb84739176f0a07dfa3d27469/93805eec6a02acda-32/s640x960/ad1ba73303ad04501d46f4238f16603a23753e91.jpg">
+  <img width="70" height="70" src="https://64.media.tumblr.com/8b37b57921ec8a3afcc2dd2fd93b718e/579528b5bc50f432-0e/s400x600/7f0eefe1ebbc00c620917934de0902cd9d73e178.jpg">
+  <img width="70" height="70" src="https://64.media.tumblr.com/9fc6db287df80b95748ae30f74c450c0/43c14f0a2b9ba261-10/s400x600/d5a849cb5258d7257752d257259a0d3f5911d0ee.jpg">
+  <img width="70" height="70" src="https://64.media.tumblr.com/5ca6036b8f817d9bb6ef14edfb763e2c/766993e340fe02fa-48/s250x400/c65edaed2bc765c658b115ed4b6fe943aefac3f5.jpg">
 </p>
 
 <p align="center">
