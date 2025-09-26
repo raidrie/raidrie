@@ -41,6 +41,13 @@
                                                           RP | INT <3
 ~~~
 
+<p align="center">
+  <img width="300" height="40" scr="https://github.com/raidrie/raidrie/blob/bbb1175e06e2d0906d2cd14175036f2013b9ed70/blinkiesCafe-S0-ezgif.com-gif-to-webp-converter.webp">
+</p>
+
+<p align="center">
+  <img width="600" height="5" src="https://64.media.tumblr.com/f21833784aff3910bac3f93cbe3d17c5/e3a34199dbfc1ee7-10/s400x600/26fe21954966c3dcb7aea35cd5b740124d2a3aec.gifv">
+</p>
 
 [<img width="70" height="70" src="https://raw.githubusercontent.com/raidrie/raidrie/refs/heads/main/изображение_2025-09-08_015350057.png">](https://github.com/erefiel)
 
