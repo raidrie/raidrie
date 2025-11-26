@@ -58,9 +58,9 @@
   <img width="600" height="5" src="https://64.media.tumblr.com/f21833784aff3910bac3f93cbe3d17c5/e3a34199dbfc1ee7-10/s400x600/26fe21954966c3dcb7aea35cd5b740124d2a3aec.gifv">
 </p>
 
-[<img width="70" height="70" src="https://raw.githubusercontent.com/raidrie/raidrie/refs/heads/main/изображение_2025-09-08_015350057.png">](https://github.com/erefiel)
+[<img width="70" height="70" src="https://raw.githubusercontent.com/raidrie/raidrie/refs/heads/main/sralastor.png">](https://github.com/erefiel)
 
-пережую.
+маяковский аььээ... эээ...
 <img width="200" height="30" src="https://github.com/raidrie/raidrie/blob/main/ezgif.com-webp-maker.webp?raw=true"> <img width="25" height="25" src="https://64.media.tumblr.com/bfef1b20b708f5721ad603291583c786/56f1ae481e750a1d-63/s75x75_c1/d646cd0f9873fa69ade87c37810e34b68ad8acfa.gifv">
 
 <p align="center">
